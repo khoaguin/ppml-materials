@@ -38,10 +38,10 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 ### Inference Phase
 
 ## Courses
-[MIT 6.875: Foundations of Cryptography](https://mit6875.github.io/)  (Fall 2021)  - [Lecture Notes](https://khoaduynguyen.com/tags/mit6-875/).  
-[Privacy in Statistics and Machine Learning](https://dpcourse.github.io/schedule.html) (Spring 2021).    
-[Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html) (Fall 2020).    
-[Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html).    
+- [MIT 6.875: Foundations of Cryptography](https://mit6875.github.io/)  (Fall 2021)  - [Lecture Notes](https://khoaduynguyen.com/tags/mit6-875/).  
+- [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/schedule.html) (Spring 2021).    
+- [Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html) (Fall 2020).    
+- [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html).    
 
 ## Other Resources
 - [awesome-ppml](https://github.com/mortendahl/awesome-ppml)
