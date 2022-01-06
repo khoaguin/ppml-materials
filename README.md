@@ -49,7 +49,7 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 
 ### Inference Phase
 
-#### Homomorphic Encryption (HE) & Functional Encryption
+#### Homomorphic Encryption (HE) & Functional Encryption (FE)
 
 1. [ICML’16] [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://proceedings.mlr.press/v48/gilad-bachrach16.html). [Code](https://github.com/microsoft/CryptoNets) (C#).
 
