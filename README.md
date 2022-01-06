@@ -32,7 +32,7 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 6. [PoPETs’20] [FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning](https://eprint.iacr.org/2019/1365)
 7. [NDSS’20] [BLAZE: Blazing Fast Privacy-Preserving Machine Learning](https://eprint.iacr.org/2020/042)
 8. [USENIX’21] [Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng). [Code](https://github.com/mc2-project/cerebro) (Python).
-9. [USENIX’21] [Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security USENIX Security'21](https://www.usenix.org/system/files/sec21fall-dalskov.pdf)
+9. [USENIX’21] [Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security](https://www.usenix.org/system/files/sec21fall-dalskov.pdf)
 10. [S&P’21] [CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU](http://arxiv.org/abs/2104.10949). [Code](https://github.com/jeffreysijuntan/CryptGPU) (Python).
 11. [USENIX 2021] [SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning](https://www.semanticscholar.org/paper/SWIFT%3A-Super-fast-and-Robust-Privacy-Preserving-Koti-Pancholi/55e9017bcf4ffec2d34c760cc832d72e39c73216)
 12. [Arxiv’21] [Adam in Private: Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation](https://arxiv.org/abs/2106.02203).
