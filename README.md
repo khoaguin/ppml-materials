@@ -59,6 +59,7 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 2. [ASIACCS’18] [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications](https://arxiv.org/abs/1801.03239)
 
 ## Courses
+- [Private AI Series (OpenMined)](https://courses.openmined.org/courses).
 - [MIT 6.875: Foundations of Cryptography](https://mit6875.github.io/)  (Fall 2021)  - [Lecture Notes](https://khoaduynguyen.com/tags/mit6-875/).  
 - [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/schedule.html) (Spring 2021).    
 - [Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html) (Fall 2020).    
