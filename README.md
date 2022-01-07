@@ -2,12 +2,21 @@
 
 ## Table of Contents
 1. [About](#about)
-2. [Secure Machine Learning](#secure-machine-learning)
+2. [Survey Papers](#survey-papers)
+3. [Secure Machine Learning](#secure-machine-learning)
 4. [Courses](#courses)
 5. [Other Resources](#other-resources)
 
 # About  
 This is a compiled list of resources and materials for PPML.  
+
+## Survey Papers
+
+1. [Arxiv’20] [Privacy in Deep Learning: A Survey](https://www.researchgate.net/publication/340963602_Privacy_in_Deep_Learning_A_Survey)
+2. [Arxiv’20] [SoK: Training Machine Learning Models over Multiple Sources with Privacy Preservation](https://arxiv.org/abs/2012.03386)
+3. [IEEEAccess’20] [Privacy-Preserving Deep Learning on Machine Learning as a Service: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9194237)
+4. [PETS’21] [SoK: Privacy-Preserving Computation Techniques for Deep Learning](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0064.pdf)
+5. [PETS’21] [SoK: Efficient Privacy Preserving Clustering](https://eprint.iacr.org/2021/809)
 
 # Secure Machine Learning  
 ## Training Phase
