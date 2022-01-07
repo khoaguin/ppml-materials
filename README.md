@@ -6,12 +6,12 @@
 4. [Courses](#courses)
 5. [Other Resources](#other-resources)
 
-## About
+# About  
 This is a compiled list of resources and materials for PPML.  
 
-## Secure Machine Learning  
-### Training Phase
-#### Homomorphic Encryption (HE) & Functional Encryption (FE)
+# Secure Machine Learning  
+## Training Phase
+### Homomorphic Encryption (HE) & Functional Encryption (FE)
 
 1. [BMC medical genomics’18] [Privacy-preserving logistic regression training](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0398-y)
 2. [Arxiv’19] [CryptoNN: Training Neural Networks over Encrypted Data](https://arxiv.org/abs/1904.07303) (FE)
@@ -22,7 +22,7 @@ This is a compiled list of resources and materials for PPML.
 Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
 7. [NDSS’21] [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://arxiv.org/abs/2009.00349).
 
-#### Secure Multi-Party Computation (SMPC)
+### Secure Multi-Party Computation (SMPC)
 
 1. [S&P’17] [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396)
 2. [CCS’19] [QUOTIENT: two-party secure neural network training and prediction](https://dl.acm.org/citation.cfm?id=3339819)
@@ -39,7 +39,7 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 13. [Arxiv’21] [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://arxiv.org/abs/2106.02850)
 14. [Arxiv’21] [Secure Quantized Training for Deep Learning](https://arxiv.org/abs/2107.00501)
 
-#### Hybrid Techniques
+### Hybrid Techniques
 
 1. [IACR Cryptol’17] [Private Collaborative Neural Network Learning](https://eprint.iacr.org/2017/762.pdf) (SMPC + DP)
 2. [CCS’18] [ABY3: A Mixed Protocol Framework for Machine Learning](https://eprint.iacr.org/2018/403.pdf). [Code](https://github.com/ladnir/aby3) (C++).
@@ -47,25 +47,25 @@ Encryption](https://arxiv.org/abs/1908.06972?utm_source=feedburner&utm_medium=fe
 4. [NeurlPS’20] [Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data](https://arxiv.org/pdf/1911.07101.pdf)
 5. [NDSS’20] [Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning](https://eprint.iacr.org/2019/1315)
 
-### Inference Phase
+## Inference Phase
 
-#### Homomorphic Encryption (HE) & Functional Encryption (FE)
+### Homomorphic Encryption (HE) & Functional Encryption (FE)
 
 1. [ICML’16] [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://proceedings.mlr.press/v48/gilad-bachrach16.html). [Code](https://github.com/microsoft/CryptoNets) (C#).
 
 ### Secure Multi-Party Computation (SMPC)
 
-1. [SIGSAC’17] [Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452.pdf)
+1. [SIGSAC’17] [Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452.pdf). [Code](https://github.com/SSGAalto/minionn) (Python).
 2. [ASIACCS’18] [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications](https://arxiv.org/abs/1801.03239)
 
-## Courses
+# Courses
 - [Private AI Series (OpenMined)](https://courses.openmined.org/courses).
 - [MIT 6.875: Foundations of Cryptography](https://mit6875.github.io/)  (Fall 2021)  - [Lecture Notes](https://khoaduynguyen.com/tags/mit6-875/).  
 - [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/schedule.html) (Spring 2021).    
 - [Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html) (Fall 2020).    
 - [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html).    
 
-## Other Resources
+# Other Resources
 - [awesome-ppml](https://github.com/mortendahl/awesome-ppml)
 - [PPML - Resource](https://github.com/Ye-D/PPML-Resource)
 - [awesome-homomorphic-encryption](https://github.com/jonaschn/awesome-he)
