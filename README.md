@@ -11,7 +11,7 @@
 # About  
 This is a compiled list of resources and materials for PPML.  
 
-# Cryptographic-based Machine Learning
+# Cryptographic-based Approach
 
 ## Survey Papers
 
@@ -76,6 +76,11 @@ This is a compiled list of resources and materials for PPML.
 1. [SIGSAC’17] [Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452.pdf). [Code](https://github.com/SSGAalto/minionn) (Python).
 2. [ASIACCS’18] [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications](https://arxiv.org/abs/1801.03239)
 3. [S&P’20] [CrypTFlow: Secure TensorFlow Inference](https://www.microsoft.com/en-us/research/publication/cryptflow-secure-tensorflow-inference/)
+
+# Non-cryptographic-based Approaches
+
+## Federated Learning
+- [AISTATS'17] [Communication-Efficient Learning of Deep Networks from Decentralized Data (FedAvg)](https://arxiv.org/pdf/1602.05629.pdf)
 
 # Courses
 - [Private AI Series](https://courses.openmined.org/courses) (OpenMined)
