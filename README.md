@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [About](#about)
 2. [Survey Papers](#survey-papers)
-3. [Secure Machine Learning](#secure-machine-learning)
+3. [Cryptographic-based Machine Learning](#cryptographic-based-machine-learning)
 4. [Courses](#courses)
 5. [Frameworks](#frameworks)
 6. [Other Resources](#other-resources)
@@ -11,7 +11,7 @@
 # About  
 This is a compiled list of resources and materials for PPML.  
 
-# Secure Machine Learning
+# Cryptographic-based Machine Learning
 
 ## Survey Papers
 
