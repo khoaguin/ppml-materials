@@ -3,10 +3,11 @@
 ## Table of Contents
 1. [About](#about)
 2. [Survey Papers](#survey-papers)
-3. [Cryptographic-based Machine Learning](#cryptographic-based-machine-learning)
-4. [Courses](#courses)
-5. [Frameworks](#frameworks)
-6. [Other Resources](#other-resources)
+3. [Cryptographic-based Machine Learning](#cryptographic-based-approach)
+4. [Non-cryptographic-based Approaches](#non-cryptographic-based-approaches)
+5. [Courses](#courses)
+6. [Frameworks](#frameworks)
+7. [Other Resources](#other-resources)
 
 # About  
 This is a compiled list of resources and materials for PPML.  
