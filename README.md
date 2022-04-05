@@ -92,6 +92,10 @@ This is a compiled list of resources and materials for PPML.
 
 # Frameworks
 - [PySyft (Python)](https://github.com/OpenMined/PySyft): decouples private data from model training (using FL, DP, HE, SMPC...) 
+- [TASTY (Python)](https://github.com/encryptogroup/tasty): combines garbled circuits with homomorphic encryption
+- [ABY (C++)](https://github.com/encryptogroup/ABY): combines arithmetic, boolean and garbled style computation and has protocols to switch between                                                       the arithmetic/boolean/garbled worlds for 2 parties
+- [ABY3 (C++)](https://github.com/ladnir/aby3): extends ABY to 3 parties
+- [ABY2.0](https://eprint.iacr.org/2020/1225.pdf): improves upon the ABY framework
 
 ## HE
 - [TenSEAL (Python)](https://github.com/OpenMined/TenSEAL): A library for doing homomorphic encryption operations on tensors 
