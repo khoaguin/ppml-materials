@@ -3,7 +3,7 @@
 # Table of Contents
 1. [About](#about)
 2. [Survey Papers](#survey-papers)
-3. [Cryptographic-based Machine Learning](#cryptographic-based-approach)
+3. [Cryptographic-based Approaches](#cryptographic-based-approach)
 4. [Non-cryptographic-based Approaches](#non-cryptographic-based-approaches)
 5. [Courses](#courses)
 6. [Frameworks](#frameworks)
@@ -82,6 +82,12 @@ This is a compiled list of resources and materials for PPML.
 
 ## Federated Learning
 - [AISTATS'17] [Communication-Efficient Learning of Deep Networks from Decentralized Data (FedAvg)](https://arxiv.org/pdf/1602.05629.pdf)
+### Federated Learning on Non-public Datasets
+Works that do experiments on non-public / private datasets
+- [Nature'21] [End-to-end privacy preserving deep learning on multi-institutional medical imaging](https://www.nature.com/articles/s42256-021-00337-8)
+- [Nature'22] [Federated deep learning for detecting COVID-19 lung abnormalities in CT: a privacy-preserving multinational validation study](https://www.nature.com/articles/s41746-021-00431-6)
+- [Genome Biology'22] [sPLINK: a hybrid federated tool as a robust alternative to meta-analysis in genome-wide association studies](https://link.springer.com/article/10.1186/s13059-021-02562-1)
+- [SPML '22] [Federated Learning for Privacy-Preserving Medical Data Sharing in Drug Development](https://www.ewadirect.com/proceedings/ace/article/view/17879)
 
 # Courses
 - [Private AI Series](https://courses.openmined.org/courses) (OpenMined)
