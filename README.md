@@ -82,15 +82,18 @@ This is a compiled list of resources and materials for PPML.
 
 ## Federated Learning
 - [AISTATS'17] [Communication-Efficient Learning of Deep Networks from Decentralized Data (FedAvg)](https://arxiv.org/pdf/1602.05629.pdf)
+
 ### Federated Learning on Non-public Datasets
 Works that do experiments on non-public / private datasets
-- [Nature'21] [End-to-end privacy preserving deep learning on multi-institutional medical imaging](https://www.nature.com/articles/s42256-021-00337-8)
+- [RadiotherapyAndOncology'16] [Distributed learning: developing a predictive model based on data from multiple hospitals without data leaving the hospital–a real life proof of concept](https://www.sciencedirect.com/science/article/pii/S0167814016343365)
+- [Nature'21] [End-to-end privacy preserving deep learning on multi-institutional medical imaging](https://www.nature.com/articles/s42256-021-00337-8) - [Code](https://github.com/gkaissis/PriMIA)
 - [JMIR Medical Informatics'21] [Federated Learning of Electronic Health Records to Improve Mortality Prediction in Hospitalized Patients With COVID-19: Machine Learning Approach](https://medinform.jmir.org/2021/1/e24207/)
 - [Nature'22] [Federated deep learning for detecting COVID-19 lung abnormalities in CT: a privacy-preserving multinational validation study](https://www.nature.com/articles/s41746-021-00431-6)
 - [Nature'22] [Federated learning enables big data for rare cancer boundary detection](https://www.nature.com/articles/s41467-022-33407-5)
 - [Genome Biology'22] [sPLINK: a hybrid federated tool as a robust alternative to meta-analysis in genome-wide association studies](https://link.springer.com/article/10.1186/s13059-021-02562-1)
 - [SPML'22] [Federated Learning for Privacy-Preserving Medical Data Sharing in Drug Development](https://www.ewadirect.com/proceedings/ace/article/view/17879)
 - [ICMHI'24] [Federated Learning and Differential Privacy Techniques on Multi-hospital Population-scale Electrocardiogram Data](https://dl.acm.org/doi/10.1145/3673971.3673990)
+- [eBioMedicine'24] [Decentralised, collaborative, and privacy-preserving machine learning for multi-hospital data](https://www.sciencedirect.com/science/article/pii/S2352396424000410) - [Code](https://github.com/cleverhans-lab/DeCaPH)
 - [Nature'25] [Privacy-preserving federated learning for collaborative medical data mining in multi-institutional settings](https://www.nature.com/articles/s41598-025-97565-4)
 
 # Courses
